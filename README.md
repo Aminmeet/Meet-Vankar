@@ -34,7 +34,7 @@ Hi there 👋, I'm Meet Vankar
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
-### 💻 Operating Systems
+ 💻 Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
