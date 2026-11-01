@@ -13,6 +13,29 @@ Hi there 👋, I'm Meet Vankar
 🌱 I'm working on improving my skills in cloud infrastructure and automation.
 
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+
 **🚀 Academic Projects**
 1. Automated Timetable Scheduling System
 
@@ -41,3 +64,5 @@ AWS Foundations – Getting Started with the AWS Cloud Essentials
 Introduction to Cloud Security
 
 Induction to ASP.NET
+
+
